@@ -70462,7 +70462,7 @@ But Paul was never given a token. Until now.`,
                           },
                           children: [
                             O.jsx("a", {
-                              href: "https://x.com/PaulofPlasma",
+                              href: "https://x.com/paulinu_plasma",
                               target: "_blank",
                               rel: "noopener noreferrer",
                               style: {
@@ -70517,7 +70517,7 @@ But Paul was never given a token. Until now.`,
                               }),
                             }),
                             O.jsx("a", {
-                              href: "https://t.me/PaulofPlasma",
+                              href: "https://t.me/paulinu_plasma",
                               target: "_blank",
                               rel: "noopener noreferrer",
                               style: {
@@ -71135,7 +71135,7 @@ But Paul was never given a token. Until now.`,
                           },
                           children: [
                             O.jsx("a", {
-                              href: "https://x.com/PaulofPlasma",
+                              href: "https://x.com/paulinu_plasma",
                               target: "_blank",
                               rel: "noopener noreferrer",
                               style: {
@@ -71190,7 +71190,7 @@ But Paul was never given a token. Until now.`,
                               }),
                             }),
                             O.jsx("a", {
-                              href: "https://t.me/PaulofPlasma",
+                              href: "https://t.me/paulinu_plasma",
                               target: "_blank",
                               rel: "noopener noreferrer",
                               style: {
@@ -75275,7 +75275,7 @@ function qV() {
                 children: [
                   O.jsxs(Be.a, {
                     className: "community-btn-x",
-                    href: "https://x.com/PaulofPlasma",
+                    href: "https://x.com/paulinu_plasma",
                     target: "_blank",
                     rel: "noopener noreferrer",
                     initial: { opacity: 0 },
@@ -75303,7 +75303,7 @@ function qV() {
                   }),
                   O.jsxs(Be.a, {
                     className: "community-btn-tg",
-                    href: "https://t.me/PaulofPlasma",
+                    href: "https://t.me/paulinu_plasma",
                     target: "_blank",
                     rel: "noopener noreferrer",
                     initial: { opacity: 0 },
@@ -75354,7 +75354,7 @@ function qV() {
         children: [
           O.jsxs(Be.a, {
             className: "community-link-btn",
-            href: "https://x.com/PaulofPlasma",
+            href: "https://x.com/paulinu_plasma",
             target: "_blank",
             rel: "noopener noreferrer",
             initial: { opacity: 0 },
@@ -75397,7 +75397,7 @@ function qV() {
           }),
           O.jsxs(Be.a, {
             className: "community-link-btn",
-            href: "https://t.me/PaulofPlasma",
+            href: "https://t.me/paulinu_plasma",
             target: "_blank",
             rel: "noopener noreferrer",
             initial: { opacity: 0 },
@@ -75471,7 +75471,7 @@ function qV() {
                 className: "community-footer-socials",
                 children: [
                   O.jsx("a", {
-                    href: "https://x.com/PaulofPlasma",
+                    href: "https://x.com/paulinu_plasma",
                     target: "_blank",
                     rel: "noopener noreferrer",
                     "aria-label": "X (Twitter)",
@@ -75491,7 +75491,7 @@ function qV() {
                     }),
                   }),
                   O.jsx("a", {
-                    href: "https://t.me/PaulofPlasma",
+                    href: "https://t.me/paulinu_plasma",
                     target: "_blank",
                     rel: "noopener noreferrer",
                     "aria-label": "Telegram",

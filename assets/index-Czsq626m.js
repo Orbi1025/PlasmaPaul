@@ -70414,7 +70414,7 @@ But Paul was never given a token. Until now.`,
                           children: [
                             // O.jsx(Be.a, {
                             //   className: "hero-title-btn",
-                            //   href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon",
+                            //   href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xba51f92DCfe6E771E1Cb9428e0B6897c39bAF718",
                             //   target: "_blank",
                             //   rel: "noopener noreferrer",
                             //   whileHover: { scale: 1.08 },
@@ -70425,7 +70425,7 @@ But Paul was never given a token. Until now.`,
                             // }),
                             O.jsx(Be.a, {
                               className: "hero-title-btn secondary",
-                              href: "https://dexscreener.com/plasma/0xcomingsoon",
+                              href: "https://dexscreener.com/plasma/0xba51f92DCfe6E771E1Cb9428e0B6897c39bAF718",
                               whileHover: { scale: 1.08 },
                               whileTap: { scale: 0.95 },
                               animate: m,
@@ -71087,7 +71087,7 @@ But Paul was never given a token. Until now.`,
                           children: [
                             // O.jsx(Be.a, {
                             //   className: "hero-title-btn",
-                            //   href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon",
+                            //   href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xba51f92DCfe6E771E1Cb9428e0B6897c39bAF718",
                             //   target: "_blank",
                             //   rel: "noopener noreferrer",
                             //   whileHover: { scale: 1.08 },
@@ -71098,7 +71098,7 @@ But Paul was never given a token. Until now.`,
                             // }),
                             O.jsx(Be.a, {
                               className: "hero-title-btn secondary",
-                              href: "https://dexscreener.com/plasma/0xcomingsoon",
+                              href: "https://dexscreener.com/plasma/0xba51f92DCfe6E771E1Cb9428e0B6897c39bAF718",
                               whileHover: { scale: 1.08 },
                               whileTap: { scale: 0.95 },
                               animate: m,
@@ -71443,7 +71443,7 @@ function NV() {
               ],
             }),
             // O.jsx("a", {
-            //   href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon",
+            //   href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xba51f92DCfe6E771E1Cb9428e0B6897c39bAF718",
             //   target: "_blank",
             //   rel: "noopener noreferrer",
             //   className: "navbar-buy",
@@ -71481,7 +71481,7 @@ function NV() {
               children: "Community",
             }),
             // O.jsx("a", {
-            //   href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon",
+            //   href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xba51f92DCfe6E771E1Cb9428e0B6897c39bAF718",
             //   target: "_blank",
             //   rel: "noopener noreferrer",
             //   className: "navbar-buy",
@@ -73008,7 +73008,7 @@ const HV = [
       value: "Plasma Ceo Paul.",
     },
   ],
-  Ub = "0xcomingsoon";
+  Ub = "0xba51f92DCfe6E771E1Cb9428e0B6897c39bAF718";
 function GV() {
   return O.jsxs("section", {
     id: "tokenomics",
@@ -73493,7 +73493,7 @@ function VV({ value: i }) {
     ],
   });
 }
-const Ob = "0xcomingsoon",
+const Ob = "0xba51f92DCfe6E771E1Cb9428e0B6897c39bAF718",
   kV = [
     {
       icon: O.jsxs("svg", {
@@ -74188,7 +74188,7 @@ function jV() {
       }),
       O.jsxs("a", {
         className: "howtobuy-uniswap-btn",
-        href: "https://app.uniswap.org/#/swap?outputCurrency=0xcomingsoon",
+        href: "https://app.uniswap.org/#/swap?outputCurrency=0xba51f92DCfe6E771E1Cb9428e0B6897c39bAF718",
         target: "_blank",
         rel: "noopener noreferrer",
         children: [
@@ -74216,7 +74216,7 @@ function jV() {
         className: "howtobuy-deximg-row",
         children: [
           O.jsx(Be.a, {
-            href: "https://dexscreener.com/ethereum/0xcomingsoon",
+            href: "https://dexscreener.com/ethereum/0xba51f92DCfe6E771E1Cb9428e0B6897c39bAF718",
             target: "_blank",
             rel: "noopener noreferrer",
             className: "howtobuy-deximg-link screener",
@@ -75550,7 +75550,7 @@ function qV() {
                     className: "community-footer-links",
                     children: [
                       // O.jsxs("a", {
-                      //   href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon",
+                      //   href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xba51f92DCfe6E771E1Cb9428e0B6897c39bAF718",
                       //   target: "_blank",
                       //   rel: "noopener noreferrer",
                       //   children: [
@@ -75562,7 +75562,7 @@ function qV() {
                       //   ],
                       // }),
                       // O.jsxs("a", {
-                      //   href: "https://etherscan.io/address/0xcomingsoon",
+                      //   href: "https://etherscan.io/address/0xba51f92DCfe6E771E1Cb9428e0B6897c39bAF718",
                       //   target: "_blank",
                       //   rel: "noopener noreferrer",
                       //   children: [
